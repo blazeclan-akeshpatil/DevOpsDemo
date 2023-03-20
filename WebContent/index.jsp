@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<title>Sample Page</title>
 <html>
+<title>Sample Page</title>
 <body style="background-color:red;"></body>
 </html>
